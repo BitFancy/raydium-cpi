@@ -9,7 +9,7 @@ skip-lint = false
 url = "https://api.mainnet-beta.solana.com"
 
 [provider]
-cluster = "mainnet-beta"
+cluster = "mainnet"
 wallet = "/root/.config/solana/id.json"
 
 [scripts]
