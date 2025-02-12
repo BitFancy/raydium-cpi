@@ -6,10 +6,10 @@ seeds = false
 skip-lint = false
 
 [registry]
-url = "https://api.devnet.solana.com"
+url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
+cluster = "https://aged-bitter-card.solana-devnet.quiknode.pro/553cccbe06b94ae764461f7bbdd47334d0e7eb65"
 wallet = "/root/.config/solana/id.json"
 
 [scripts]
